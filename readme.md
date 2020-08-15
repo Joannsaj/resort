@@ -9,8 +9,8 @@ If you run into any issues you can contact me through my email. joannsaj@gmail.c
 
 Any improvements to this code are welcome.
 ### License
-*MIT License*
-Copyright (c) 2020 **JoanNansamba**
+licensed under [MIT License](LICENSE)
+Copyright (c) 2020 Joan Nansamba
 
 
 
