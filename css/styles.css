@@ -1,0 +1,16 @@
+body {
+    border: 2px solid black;
+}
+ul {
+    border: 2px solid black;
+    color: chocolate;
+}
+p {
+    color: darkgreen;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color:lightblue;
+        color: darkorchid;
+    }
+}
